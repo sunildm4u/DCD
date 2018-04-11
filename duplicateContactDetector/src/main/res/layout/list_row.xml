@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_selector"
+    android:orientation="horizontal"
+    >
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/list_image"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_launcher" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginLeft="10dp" 
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/App_Name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scrollHorizontally="false"
+                android:text="Rihanna Love the way lie"
+                android:textColor="#040404"
+                android:textSize="12dip"
+                android:textStyle="bold"
+                android:typeface="serif" 
+                android:layout_gravity="center|left"/>
+
+            <TextView
+                android:id="@+id/App_Desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scrollHorizontally="false"
+                android:text="Just gona stand there and ..."
+                android:textColor="#343434"
+                android:textSize="10dip"
+                android:typeface="monospace"
+                android:layout_gravity="center|left"
+                android:layout_marginTop="5dp" />
+        </LinearLayout>
+            <ImageView
+        android:id="@+id/Price"
+        android:layout_width="20dip"
+        android:layout_height="60dip"
+        android:src="@drawable/buy_gas" />
+
+     </LinearLayout>
+
+</RelativeLayout>

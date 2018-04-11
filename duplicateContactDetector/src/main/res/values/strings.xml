@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Duplicate Contacts Organizer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_detector">Duplicate Detector</string>
+    <string name="title_activity_remover1">Duplicate Remover - Name Based</string>
+    <string name="title_activity_remover2">Remove Junk Emails</string>
+    <string name="title_activity_exporter">Contacts Exporter</string>
+    <string name="title_activity_top_conatcts">Top Conatcts</string>
+    <string name="title_activity_donation">Donation</string>
+    <string name="remove_duplicates">Remove Duplicates</string>
+    <string name="find_duplicates">Find Duplicates</string>
+    <string name="total_number_of_contacts_">Total Contacts :</string>
+    <string name="title_activity_test">Test</string>
+    <string name="_0">#3f9fe0</string>
+    <string name="number_of_duplicates_">Number Of Duplicates :</string>
+    <string name="view_duplicates">View Duplicates</string>
+    <string name="export_cleaned_contacts">Export  Cleaned Contacts</string>
+    <string name="title_activity_isddialodue">ISDDialodue</string>
+    <string name="title_activity_cutom_list_objectvew">CutomListObjectvew</string>
+    <string name="title_activity_remove15">Duplicate Remover - Number Based</string>
+    <string name="obj">#3f9fe0</string>
+    <string name="title_activity_ratethisapp">Feedback - Rate My App</string>
+    <string name="title_activity_landing_page">Utility Tools</string>
+    <string name="title_activity_temp">Purchase Activity</string>
+    <string name="title_activity_remove_dup_numbers">Remove Duplicates</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_favourite_contacts">FavouriteContacts</string>
+    <string name="title_activity_on_demand">New Feature Request</string>
+    <string name="title_activity_contacts_importer">Import Contacts</string>
+    <string name="title_activity_delete_contacts">Delete Contacts</string>
+    <string name="title_activity_internal_duplicate_remove">InternalDuplicateRemove</string>
+    <string name="title_activity_invisible_contacts">InvisibleContacts</string>
+    <string name="title_activity_merge_contacts">MergeContacts</string>
+    <string name="title_activity_email_exact_duplicates">EmailExactDuplicates</string>
+    <string name="title_activity_restore_contacts">RestoreContacts</string>
+    <string name="title_activity_rename_country_code">Add Country Code</string>
+
+</resources>

@@ -1,0 +1,7 @@
+#Thu Jun 15 15:21:01 IST 2017
+base.0=C\:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_99d35e385ba8800518e580026a17334c2fc57b4d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ed05289bb6c0df28a7ebad8141abe03bd689ff78\\classes.dex
+base.1=C\:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ed05289bb6c0df28a7ebad8141abe03bd689ff78
+file.0=C\:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_99d35e385ba8800518e580026a17334c2fc57b4d\\classes.dex

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\93031da7b3f2db5214fa277b650d36b49510752a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_321c5001a3393f935540c70556440e3159fe3e7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\libs\itextpdf-5.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607e5c925a438ed4f669b269874a3a1b4ef24561">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\2\itextpdf-5.4.0_0992272da69ad6d503e2ed3af8f103936cd51c1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85a20c662d2a29a2da4998181a97e8c2e100b63d">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_99d35e385ba8800518e580026a17334c2fc57b4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\4ed2838e11265bf6aeec8a83e9d8a1a5293c2b6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f437932017f26f20b8e6de37db42dbde1684bf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\2b168e56610eda999a9f8f16bcc592248c5b6a9a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_27aaeff0716da006b8a3723e7d70c23dfb55341f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_815b869a53fa026f49958718605a910e43e913f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\90cceab0047b70befbd652202c7bd814d739977a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5587446137df2a8d85c7c1ae393fcc86f005475\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\90cceab0047b70befbd652202c7bd814d739977a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ca136622eca63e06d2d967724118f99d8d040ddc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\libs\itextpdf-5.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="607e5c925a438ed4f669b269874a3a1b4ef24561">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\2\itextpdf-5.4.0_0992272da69ad6d503e2ed3af8f103936cd51c1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\f570024585d725cdac770284d56e9b6df50f66a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4235028464a846082c865bda49a8d96ec575f625\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4b18000d92dd9880d9e308541c4a5332fc5110a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_815b869a53fa026f49958718605a910e43e913f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\93031da7b3f2db5214fa277b650d36b49510752a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c6fc72ebc089ccc33ffc8797b160f85caa5c0164\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\2b168e56610eda999a9f8f16bcc592248c5b6a9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3083335234a1ec312350a7f652e73bcd2a206ba9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\3e3dfd0f5221c170fbb75a713c08c9e504619d97\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_090d4bbd972f120efc4c91637a734a210e19da15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\db63b480bf372b2e4fa3395cda589d863c82e656\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73d705ff2245f3bdf35d305754f54c0f5f57c2cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5f17b529d7166fe8e36463547b1b5aac3965af7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\abffe0fbe128d23de00a48c7c609ffdf205b8fee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9484c1991d8efbbb52361997e36f484f3ffef589\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ed05289bb6c0df28a7ebad8141abe03bd689ff78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\a57f0d34851db99c4bb31f9df38f3b47909ebfdc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45652c689422118e29c6e9b4862ce895aee496ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\3e3dfd0f5221c170fbb75a713c08c9e504619d97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00970d98b24701505855befb5be0ccb3eb4dc8c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\f570024585d725cdac770284d56e9b6df50f66a3\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5669c9becfed8001abf9e85feb30c805b15159b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\25f13e566fefa1e5900bccae631273e417213fc8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d1bbb90ce96c6453992240390de336cdc23e44c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doddmani\.android\build-cache\0713145a66bcdcf8da607dad808fd06434f9397d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c21733c8d335e070aebc88a20bcf10b4fd5e746\classes.dex" />
+    </item>
+
+</items>

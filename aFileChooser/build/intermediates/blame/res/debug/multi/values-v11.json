@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values-v11\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 152,
+                        "endColumn": 44,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 43,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values-v11\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 111,
+                        "endColumn": 40,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 53,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values-v11\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 53,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 59,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values-v11\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 59,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endColumn": 77,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values-v11\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 77,
+                        "endOffset": 791
+                    }
+                }
+            }
+        ]
+    }
+]

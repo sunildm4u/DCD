@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ListView
+        android:layout_width="match_parent" android:id="@+id/listview"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/removeduplicates"
+        android:layout_alignParentTop="true" />
+
+    <Button
+        android:id="@+id/removeduplicates"
+        style="@style/ButtonText"
+        android:background="@drawable/blue_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:onClick="deleteContacts"
+        android:text="Remove Duplicates"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Congratulations !! All exact Duplicates removed at this point. "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:gravity="center_horizontal|center_vertical"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/delconfirmID"
+        android:textAppearance="@android:style/TextAppearance.Large" />
+</RelativeLayout>

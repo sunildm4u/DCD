@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 219,
+                        "endColumn": 51,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 59,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 85,
+                        "endColumn": 57,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 69,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 271,
+                        "endColumn": 67,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 77,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 143,
+                        "endColumn": 75,
+                        "endOffset": 216
+                    }
+                }
+            }
+        ]
+    }
+]

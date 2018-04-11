@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_file.png",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\drawable-hdpi\\ic_file.png"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_folder.png",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\drawable-hdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_chooser.png",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\drawable-hdpi\\ic_chooser.png"
+    }
+]

@@ -1,0 +1,422 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:2:1-159:12
+	package
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:4:5-35
+uses-sdk
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:8:5-9:70
+MERGED from [DuplicateContactDetector:aFileChooser:unspecified] C:\Users\doddmani\Desktop\DuplicateContactDetector\aFileChooser\build\intermediates\bundles\default\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\doddmani\.android\build-cache\8bcdcb29dde7020c448551cde7bfb65794a63a15\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\doddmani\.android\build-cache\abffe0fbe128d23de00a48c7c609ffdf205b8fee\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\doddmani\.android\build-cache\25f13e566fefa1e5900bccae631273e417213fc8\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\doddmani\.android\build-cache\4ed2838e11265bf6aeec8a83e9d8a1a5293c2b6a\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\doddmani\.android\build-cache\a57f0d34851db99c4bb31f9df38f3b47909ebfdc\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\doddmani\.android\build-cache\0713145a66bcdcf8da607dad808fd06434f9397d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\doddmani\.android\build-cache\db63b480bf372b2e4fa3395cda589d863c82e656\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\doddmani\.android\build-cache\90cceab0047b70befbd652202c7bd814d739977a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\doddmani\.android\build-cache\f570024585d725cdac770284d56e9b6df50f66a3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\doddmani\.android\build-cache\3e3dfd0f5221c170fbb75a713c08c9e504619d97\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\doddmani\.android\build-cache\2b168e56610eda999a9f8f16bcc592248c5b6a9a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\doddmani\.android\build-cache\93031da7b3f2db5214fa277b650d36b49510752a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.1] C:\Users\doddmani\.android\build-cache\db63b480bf372b2e4fa3395cda589d863c82e656\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:9:38-67
+		INJECTED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml
+uses-permission#com.android.vending.BILLING
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:15:22-70
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:16:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:18:5-67
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\doddmani\.android\build-cache\abffe0fbe128d23de00a48c7c609ffdf205b8fee\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\doddmani\.android\build-cache\25f13e566fefa1e5900bccae631273e417213fc8\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:19:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\doddmani\.android\build-cache\25f13e566fefa1e5900bccae631273e417213fc8\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:20:5-68
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\doddmani\.android\build-cache\25f13e566fefa1e5900bccae631273e417213fc8\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:20:22-65
+supports-screens
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:22:5-28:40
+	android:largeScreens
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:24:9-36
+	android:smallScreens
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:27:9-36
+	android:normalScreens
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:25:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:28:9-37
+	android:resizeable
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:26:9-34
+	android:anyDensity
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:23:9-34
+application
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:30:5-157:19
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\doddmani\.android\build-cache\8bcdcb29dde7020c448551cde7bfb65794a63a15\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\doddmani\.android\build-cache\abffe0fbe128d23de00a48c7c609ffdf205b8fee\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\doddmani\.android\build-cache\25f13e566fefa1e5900bccae631273e417213fc8\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\doddmani\.android\build-cache\4ed2838e11265bf6aeec8a83e9d8a1a5293c2b6a\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\doddmani\.android\build-cache\a57f0d34851db99c4bb31f9df38f3b47909ebfdc\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\doddmani\.android\build-cache\0713145a66bcdcf8da607dad808fd06434f9397d\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\doddmani\.android\build-cache\db63b480bf372b2e4fa3395cda589d863c82e656\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\doddmani\.android\build-cache\90cceab0047b70befbd652202c7bd814d739977a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\doddmani\.android\build-cache\f570024585d725cdac770284d56e9b6df50f66a3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\doddmani\.android\build-cache\3e3dfd0f5221c170fbb75a713c08c9e504619d97\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\doddmani\.android\build-cache\2b168e56610eda999a9f8f16bcc592248c5b6a9a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\doddmani\.android\build-cache\93031da7b3f2db5214fa277b650d36b49510752a\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:34:9-41
+	android:allowBackup
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:31:9-35
+	android:icon
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:33:9-45
+	android:theme
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:35:9-48
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:32:9-44
+activity#com.ipaulpro.afilechooser.FileChooserActivity
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:36:9-48:20
+	android:exported
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:38:13-37
+	android:theme
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:39:13-48
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:37:13-73
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.DEFAULT+android.intent.category.OPENABLE
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:40:13-47:29
+action#android.intent.action.GET_CONTENT
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:41:25-73
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:43:27-73
+category#android.intent.category.OPENABLE
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:44:27-74
+data
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:46:17-48
+	android:mimeType
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:46:23-45
+activity#com.makelifesimple.duplicatedetector.LandingPage
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:49:9-58:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:50:13-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:53:13-57:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:54:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:56:17-77
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:56:27-74
+activity#com.makelifesimple.duplicatedetector.Detector
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:60:9-64:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:62:13-60
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:61:13-73
+activity#com.makelifesimple.duplicatedetector.Remover1
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:65:9-69:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:67:13-60
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:66:13-73
+activity#com.makelifesimple.duplicatedetector.EmailRemover
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:70:9-74:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:72:13-60
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:71:13-77
+activity#com.makelifesimple.duplicatedetector.Exporter
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:75:9-79:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:77:13-60
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:76:13-73
+activity#com.makelifesimple.duplicatedetector.TopConatcts
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:80:9-84:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:83:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:82:13-64
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:81:13-76
+activity#com.makelifesimple.duplicatedetector.NumberBasedDupRemoval
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:85:10-89:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:88:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:87:13-60
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:86:13-86
+activity#com.makelifesimple.duplicatedetector.Ratethisapp
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:90:9-95:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:93:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:92:13-63
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:91:13-76
+activity#com.makelifesimple.duplicatedetector.MainActivity2
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:96:9-100:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:99:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:98:13-64
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:97:13-78
+activity#com.makelifesimple.duplicatedetector.NameBasedDupRemoaval
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:102:9-106:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:105:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:104:13-70
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:103:13-85
+activity#com.makelifesimple.duplicatedetector.FavouriteContacts
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:107:9-110:20
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:109:13-70
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:108:13-82
+activity#com.makelifesimple.duplicatedetector.OnDemand
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:111:9-115:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:113:13-61
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:112:13-73
+activity#com.makelifesimple.duplicatedetector.ContactsImporter
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:116:9-120:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:119:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:118:13-69
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:117:13-81
+activity#com.makelifesimple.duplicatedetector.DeleteContacts
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:121:9-125:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:124:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:123:13-67
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:122:13-79
+activity#com.makelifesimple.duplicatedetector.InternalDuplicateRemove
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:126:9-130:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:129:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:128:13-77
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:127:13-88
+activity#com.makelifesimple.duplicatedetector.InvisibleContacts
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:131:9-135:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:134:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:133:13-70
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:132:13-82
+activity#com.makelifesimple.duplicatedetector.MergeContacts
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:136:9-140:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:139:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:138:13-66
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:137:13-78
+activity#com.makelifesimple.duplicatedetector.EmailExactDuplicates
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:141:9-145:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:144:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:143:13-74
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:142:13-85
+activity#com.makelifesimple.duplicatedetector.RestoreContacts
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:146:9-150:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:149:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:148:13-68
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:147:13-80
+activity#com.makelifesimple.duplicatedetector.RenameCountryCode
+ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:151:9-155:20
+	android:screenOrientation
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:154:13-49
+	android:label
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:153:13-71
+	android:name
+		ADDED from C:\Users\doddmani\Desktop\DuplicateContactDetector\duplicateContactDetector\src\main\AndroidManifest.xml:152:13-82
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\doddmani\.android\build-cache\25f13e566fefa1e5900bccae631273e417213fc8\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\doddmani\.android\build-cache\25f13e566fefa1e5900bccae631273e417213fc8\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\doddmani\.android\build-cache\9da9fc4b4693221015e7f6cd78c3c110ef21d2f7\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\doddmani\.android\build-cache\0b88a1dc5bd51306b10b0f6c325e43fa526dd48d\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\doddmani\.android\build-cache\4ed2838e11265bf6aeec8a83e9d8a1a5293c2b6a\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\doddmani\.android\build-cache\4ed2838e11265bf6aeec8a83e9d8a1a5293c2b6a\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\doddmani\.android\build-cache\4ed2838e11265bf6aeec8a83e9d8a1a5293c2b6a\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\doddmani\.android\build-cache\4ed2838e11265bf6aeec8a83e9d8a1a5293c2b6a\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\doddmani\.android\build-cache\4ed2838e11265bf6aeec8a83e9d8a1a5293c2b6a\output\AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\doddmani\.android\build-cache\0713145a66bcdcf8da607dad808fd06434f9397d\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\doddmani\.android\build-cache\0713145a66bcdcf8da607dad808fd06434f9397d\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\doddmani\.android\build-cache\0713145a66bcdcf8da607dad808fd06434f9397d\output\AndroidManifest.xml:20:20-65

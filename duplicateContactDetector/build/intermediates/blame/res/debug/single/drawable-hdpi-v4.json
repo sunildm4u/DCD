@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\drawable-hdpi\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient_bg_hover.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\drawable-hdpi\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_file.png",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_file.png"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_delete.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\drawable-hdpi\\list_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_folder.png",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient_bg.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\drawable-hdpi\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chooser.png",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_chooser.png"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_bg.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\drawable-hdpi\\image_bg.xml"
+    }
+]

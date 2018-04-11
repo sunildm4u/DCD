@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">466727962700-2gg0jgmhbb64vjtv1mhr321j1ngimt10.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://duplicatecontactdetector.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">466727962700</string>
+    <string name="google_api_key" translatable="false">AIzaSyCDuKHtqRwGew8TwXRMa-jlHLyeNE8KF9Y</string>
+    <string name="google_app_id" translatable="false">1:466727962700:android:f3ae3f94c3c74947</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCDuKHtqRwGew8TwXRMa-jlHLyeNE8KF9Y</string>
+    <string name="google_storage_bucket" translatable="false">duplicatecontactdetector.appspot.com</string>
+</resources>

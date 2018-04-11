@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DuplicateContactDetector.iml" filepath="$PROJECT_DIR$/DuplicateContactDetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aFileChooser/aFileChooser.iml" filepath="$PROJECT_DIR$/aFileChooser/aFileChooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duplicateContactDetector/duplicateContactDetector.iml" filepath="$PROJECT_DIR$/duplicateContactDetector/duplicateContactDetector.iml" />
+    </modules>
+  </component>
+</project>

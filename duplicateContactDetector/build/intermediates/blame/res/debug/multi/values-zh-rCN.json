@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 53,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 157,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\.android\\build-cache\\0713145a66bcdcf8da607dad808fd06434f9397d\\output\\res\\values-zh-rCN\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 289,
+                        "endColumn": 157,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 59,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 59,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 69,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 69,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 77,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 77,
+                        "endOffset": 312
+                    }
+                }
+            }
+        ]
+    }
+]

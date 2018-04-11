@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_delete.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\list_row_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_email_exact_duplicates.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_email_exact_duplicates.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_merge_contacts.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_merge_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remove15.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_remove15.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cutom_list_objectvew.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_cutom_list_objectvew.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_landing.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_main_landing.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_isddialodue.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_isddialodue.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favourite_contacts.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_favourite_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exporter.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_exporter.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_internal_duplicate_remove.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_internal_duplicate_remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detector.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_detector.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_on_demand.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_on_demand.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remover2.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_remover2.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contacts_importer.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_contacts_importer.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remove_dup_numbers.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_remove_dup_numbers.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_top_conatcts.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_top_conatcts.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_landing_page.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_landing_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invisible_contacts.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_invisible_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rename_country_code.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_rename_country_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ratethisapp.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_ratethisapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\customalert.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\customalert.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\child_item.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\child_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\group_item.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\group_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_delete_contacts.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_delete_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\chooser.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\layout\\chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_temp.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_temp.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_restore_contacts.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_restore_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\file.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\layout\\file.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\child_item_merge.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\child_item_merge.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remover1.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\activity_remover1.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\rowdata.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\rowdata.xml"
+    },
+    {
+        "merged": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\build\\intermediates\\res\\merged\\debug\\layout\\contactinfo.xml",
+        "source": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\duplicateContactDetector\\src\\main\\res\\layout\\contactinfo.xml"
+    }
+]

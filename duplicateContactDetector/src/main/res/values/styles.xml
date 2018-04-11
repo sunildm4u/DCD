@@ -1,0 +1,67 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<!-- <style name="MyTheme" parent="@android:style/Theme.Holo.Light"> -->
+<!--     <item name="android:actionBarStyle">@style/MyActionBar</item> -->
+<!--     <item name="android:titleTextStyle">@style/MyTextBar</item> -->
+<!-- </style> -->
+
+<!-- <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar"> -->
+<!--  	<item name="android:background">#3f9fe0</item> -->
+<!-- </style> -->
+
+<!-- <style name="MyTextBar" parent="@android:style/Widget.Holo.Light.ActionBar"> -->
+<!--     <item name="android:textColor">#DCDCDC</item> -->
+<!-- </style> -->
+
+
+<!-- <style name="Theme.MyAppTheme" parent="android:style/Theme.Holo.Light"> -->
+<!--          <item name="android:actionBarStyle">@style/Theme.MyAppTheme.ActionBar</item> -->
+<!-- </style>          -->
+<!-- <style name="Theme.MyAppTheme.ActionBar" parent="android:style/Widget.Holo.Light.ActionBar"> -->
+<!--         <item name="android:background">#D50000</item> -->
+<!--          <item name="android:titleTextStyle">@style/Theme.MyAppTheme.ActionBar.TitleTextStyle</item> -->
+<!--     </style>         -->
+<!--    <style name="Theme.MyAppTheme.ActionBar.TitleTextStyle" parent="android:style/TextAppearance.Holo.Widget.ActionBar.Title"> -->
+<!--         <item name="android:textColor">#DCDCDC</item> -->
+<!--     </style>    -->
+
+
+   <style name="Theme.MyAppTheme" parent="android:style/Theme.Holo.Light">
+         <item name="android:actionBarStyle">@style/Theme.MyAppTheme.ActionBar</item>
+   </style>         
+   
+   <style name="Theme.MyAppTheme.ActionBar" parent="android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#ABD17F</item>
+         <item name="android:titleTextStyle">@style/Theme.MyAppTheme.ActionBar.TitleTextStyle</item>
+    </style>        
+    
+   <style name="Theme.MyAppTheme.ActionBar.TitleTextStyle" parent="android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:typeface">monospace</item>
+    </style>           
+
+    <style name="AlertDialogCustom" parent="@android:style/Theme.Dialog">
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:background">@drawable/alertbg</item>
+    </style>
+
+    <style name="ButtonText">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#ffffff</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_margin">3dp</item>
+    <item name="android:textSize">20dp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:shadowColor">#000000</item>
+    <item name="android:shadowDx">1</item>
+    <item name="android:shadowDy">1</item>
+    <item name="android:shadowRadius">2</item>
+</style>
+
+
+
+</resources>

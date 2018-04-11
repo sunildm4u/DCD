@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "466727962700",
+    "firebase_url": "https://duplicatecontactdetector.firebaseio.com",
+    "project_id": "duplicatecontactdetector",
+    "storage_bucket": "duplicatecontactdetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466727962700:android:f3ae3f94c3c74947",
+        "android_client_info": {
+          "package_name": "com.makelifesimple.duplicatedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466727962700-rnn76gmep6ujj41946ujngfjg760j8rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makelifesimple.duplicatedetector",
+            "certificate_hash": "6f1450d0d5a9656f69e1e9b67d7863078006faf3"
+          }
+        },
+        {
+          "client_id": "466727962700-u3pc84gso31q4e3s76reptvb361em89i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makelifesimple.duplicatedetector",
+            "certificate_hash": "01eb8235ae0c5e1b5e84917b3f7ea22a28ec0a47"
+          }
+        },
+        {
+          "client_id": "466727962700-2gg0jgmhbb64vjtv1mhr321j1ngimt10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDuKHtqRwGew8TwXRMa-jlHLyeNE8KF9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466727962700-2gg0jgmhbb64vjtv1mhr321j1ngimt10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

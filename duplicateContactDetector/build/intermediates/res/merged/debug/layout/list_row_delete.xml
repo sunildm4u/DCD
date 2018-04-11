@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_delete"
+    android:orientation="horizontal"
+    android:padding="5dip" >
+ 
+    <!--  ListRow Left sied Thumbnail image -->
+    <LinearLayout android:id="@+id/thumbnail"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:padding="3dip"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="5dip">
+ 
+    </LinearLayout>
+ 
+    <!-- Title Of Song-->
+    <TextView
+        android:id="@+id/App_Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/thumbnail"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:text="Rihanna Love the way lie"
+        android:typeface="serif"
+        android:textColor="#040404"
+        android:textSize="15dip"
+        android:textStyle="bold"/>
+ 
+    <!-- Artist Name -->
+    <TextView
+        android:id="@+id/App_Desc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:typeface="monospace"
+        android:layout_below="@id/App_Name"
+        android:textColor="#343434"
+        android:textSize="10dip"
+        android:layout_marginTop="1dip"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:text="Just gona stand there and ..." />
+ 
+    <!-- Rightend Duration -->
+ 
+     <!-- Rightend Arrow -->
+
+<!--     <TextView -->
+<!--         android:id="@+id/Price" -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:layout_alignParentRight="true" -->
+<!--         android:layout_centerVertical="true" -->
+<!--         android:gravity="right" -->
+<!--         android:text="5:45" -->
+<!--         android:textColor="#10bcc9" -->
+<!--         android:textSize="10dip" -->
+<!--         android:textStyle="bold" /> -->
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/App_Desc"
+        android:src="@drawable/del" />
+ 
+</RelativeLayout>

@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".InvisibleContacts" >
+
+     <TextView
+        android:id="@+id/intdupcount"
+        android:layout_width="wrap_content"
+         android:textColor="#3f9fe0" 
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_alignParentRight="true"
+        android:text="0"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+       />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="65dp"
+         android:textColor="#3f9fe0" 
+        android:text="Total Invisible Contacts"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:textColor="#3f9fe0" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="50dp"
+        android:text="Note: \n\n Invisible Contacts : These contacts will not visible in your contacts in any case. so you can delete them  \n\nEmpty Contacts : It has been crossVerified that empty contacts are not having Number, Email, notes or Address" />
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/ButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button1"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/blue_btn"
+        android:onClick="viewduplicates"
+        android:text="View Invisible Contacts" />
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/ButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="18dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/blue_btn"
+        android:onClick="removeduplicates"
+        android:text="Delete Invisible Contacts" />
+
+</RelativeLayout>

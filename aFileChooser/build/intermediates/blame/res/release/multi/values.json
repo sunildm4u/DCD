@@ -1,0 +1,163 @@
+[
+    {
+        "outputFile": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 752,
+                        "endColumn": 44,
+                        "endOffset": 795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 42,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 712,
+                        "endColumn": 39,
+                        "endOffset": 750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 53,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 53,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 59,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 59,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 69,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endColumn": 69,
+                        "endOffset": 915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 77,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 77,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endLine": 10,
+                    "endColumn": 9,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1069,
+                        "endLine": 26,
+                        "endColumn": 9,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 881
+                },
+                "from": {
+                    "file": "C:\\Users\\doddmani\\Desktop\\DuplicateContactDetector\\aFileChooser\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1064
+                    }
+                }
+            }
+        ]
+    }
+]

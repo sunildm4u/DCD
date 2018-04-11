@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="choose_file">Selezionare un file</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> sta riscontrando problemi con Google Play Services. Riprova."</string>
+    <string name="empty_directory">Directory vuota</string>
+    <string name="error_selecting_file">Errore nel selezionare il File</string>
+    <string name="storage_removed">Lo spazio di archiviazione è stato rimosso o smontato.</string>
+</resources>
